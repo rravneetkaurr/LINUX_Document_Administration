@@ -1,5 +1,5 @@
 # LINUX_Document_Administration
-This operating systems project enhances the efficiency of digital file handling by providing a structured approach to file and directory management.
+THIS OPERATING SYSTEMS PROJECT ENHANCES THE EFFICIENCY OF DIGITAL FILE HANDLING BY PROVIDING A STRUCTURED APPROACH TO FILE AND DIRECTORY MANAGEMENT.
 
 Document Handling is a cornerstone of modern operating systems, essential for organizing and manipulating data stored on computer systems. It encompasses tasks such as creating, modifying and deleting files, ensuring that information is stored efficiently and accessed easily. Each file contains both data and metadata, including details like authorship, creation and modification dates, and size, facilitating effective management by the operating system (OS). 
 
